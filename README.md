@@ -20,4 +20,4 @@ This project implements a basic to-do list web application using HTML, CSS, and 
  
   1. **Clone the Repository:**
    ```bash
-            git clone [https://github.com/jay240322/To-Do-List.git](https://github.com/jay240322/To-Do-List.git)
+            git clone [https://github.com/jay240322/To-Do-List.git]
